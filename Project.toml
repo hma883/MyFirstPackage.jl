@@ -4,10 +4,12 @@ authors = ["hma883"]
 version = "1.0.0-DEV"
 
 [deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 OMEinsum = "ebe7aa44-baf0-506c-a96f-8464559b3922"
 
 [compat]
 julia = "1.10"
+LinearAlgebra = "1" 
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
