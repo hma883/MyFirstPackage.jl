@@ -3,6 +3,9 @@ uuid = "63fb9294-4fb8-48cd-a6ee-549a4af8bbe0"
 authors = ["hma883"]
 version = "1.0.0-DEV"
 
+[deps]
+OMEinsum = "ebe7aa44-baf0-506c-a96f-8464559b3922"
+
 [compat]
 julia = "1.10"
 
